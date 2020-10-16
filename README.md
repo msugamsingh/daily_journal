@@ -1,6 +1,31 @@
 # dailyjournal
 
-A daily journal app.
+An easy-to-use journal app with reminder, tasks and much more.
+
+This app allows you to record your daily life in the easiest way possible.
+
+Some of the features are:
+
+- Dark & Light Theme
+
+- Tasks & To-Do
+
+- Attach Images
+
+- Modern UI
+
+- Reminders
+
+- [Install the app from Playstore](https://play.google.com/store/apps/details?id=forol.msugamsingh.dailyjournal)
+
+
+# Screenshots
+
+![Screenshot](../master/docs/featuredailyjournal.png)
+![Screenshot](../master/docs/Screenshot_1601468268.png)
+![Screenshot](../master/docs/Screenshot_1601468347.png)
+![Screenshot](../master/docs/Screenshot_1601468560.png)
+![Screenshot](../master/docs/Screenshot_1601468469.png)
 
 ## Getting Started
 
